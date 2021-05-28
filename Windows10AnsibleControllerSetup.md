@@ -1,3 +1,4 @@
+##Installing Ansible Controller on Windows 10
 WINDOWS 10 64
 Turn on WSL (mine was already on, I think it is turned on with Docker) I could have just used Docker too. 
 Get Ubuntu (Store) Vanilla
